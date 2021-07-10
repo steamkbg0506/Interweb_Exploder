@@ -1,0 +1,2 @@
+rootProject.name = "Nazicrosoft Interweb Exploder"
+include ':app'
